@@ -1,0 +1,68 @@
+# MODUL TRANSAKSI DALAM LIST
+'''
+Modul Pembuatan transaksi dan perhitungan total biaya
+'''
+# Buat nomor urut transaksi
+import random
+def pilih_nomor(awal):
+    '''
+    Fungsi memilih nomor secara random.
+
+    Parameter:
+        - awal (str): Ya atau Tidak.
+    Output:
+        - nomor_anda (int): dipilih random jika tidak // input kode sendiri jika ya.
+    '''
+    if awal.title() == 'Tidak':
+        nomor_anda = random.randint(1,100000)
+        print(f"Berikut nomor transaksi Anda: {nomor_anda}.\nSilakan buat transaksi dengan format transaksi_{nomor_anda}.")
+    elif awal.title() == 'Ya':
+        nomor_anda = int(input("Masukkan kode transaksi Anda:"))
+    else:
+        print("Silakan ulangi proses Anda.")
+    return nomor_anda
+
+# Buat nomor urut transaksi
+def buat_transaksi(awal):
+    '''
+    Fungsi untuk membuat transaksi atau tidak.
+
+    Parameter:
+        - awal (str): jawaban ya atau tidak.
+    Output:
+        - Jika awal == Ya, maka: pilih_nomor() (int): nomor/kode untuk transaksi.
+        - Jika awal == Tidak, maka: tidak akan diberikan nomor/kode transaksi.
+    '''
+    if awal.title() == 'Tidak':
+        print("Silakan pilih nomor transaksi Anda.")
+    else:
+        print('Anda telah membuat transaksi. \n Silakan panggil kode transaksi Anda.')
+
+# Buat Fungsi Transaksi
+def transaction():
+    '''
+    Fungsi untuk membuat daftar list transaksi kosong.
+    '''
+    namaproduk = []
+    jumlah = []
+    harga_1_item = []
+    transaksi = [namaproduk, jumlah, harga_1_item]
+    return transaksi
+
+# Hitung Total Transaksi
+def total_price(my_transaksi):
+    '''
+    Fungsi menghitung total harga.
+
+    Parameter:
+        - my_transaksi (DataFrame): berisi daftar belanja.
+
+    Output:
+        - total (float): total harga belanja.
+    '''
+    total = sum(my_transaksi['harga_total'])
+    return total
+
+
+
+
