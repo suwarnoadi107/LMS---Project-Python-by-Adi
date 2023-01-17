@@ -49,7 +49,7 @@ Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungs
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/117746590/212801416-da93291b-7695-4155-83fc-42c00522044e.png">
 
 ### update_item_list_modul
-Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungsi, antara lain:
+Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungsi, seperti koreksi nama item, jumlah, dan atau harga, hapus item, dan reset transaksi.
 
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/117746590/212802004-76418668-b426-4134-bfa9-521411095fad.png">
 
@@ -58,4 +58,31 @@ Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungs
 <img width="606" alt="image" src="https://user-images.githubusercontent.com/117746590/212801903-815c302d-a998-499a-81bf-272392bc3f40.png">
 
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/117746590/212802160-de62b5df-f90d-46c7-878f-f82322040c6e.png">
+
+### cek_transaksi_modul
+Modul ini dibuat untuk melihat kesesuaian antarkomponen dalam list atau data frame daftar item dalam transaksi.
+
+<img width="445" alt="image" src="https://user-images.githubusercontent.com/117746590/212802527-1b4c5c32-00bd-419c-a0eb-475b14622541.png">
+
+<img width="342" alt="image" src="https://user-images.githubusercontent.com/117746590/212802559-1f32a85e-4531-47d2-879c-51fff178838b.png">
+
+<img width="280" alt="image" src="https://user-images.githubusercontent.com/117746590/212802624-ad72360e-2f7f-4135-a527-3d5571255ec5.png">
+
+### update_item_dataframe_modul
+Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungsi, seperti koreksi nama item, jumlah, dan atau harga, hapus item, dan reset transaksi. Modul ini digunakan untuk data yang sudah dalam bentuk data frame.
+
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/117746590/212802830-108f3c21-e8a9-4377-ad69-a57d75b546d5.png">
+
+<img width="408" alt="image" src="https://user-images.githubusercontent.com/117746590/212802870-5fa3e7c2-c56a-4fab-ac06-62511ebd66a8.png">
+
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/117746590/212802913-c071b683-957e-44dc-87f4-34e2ddedc54a.png">
+
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/117746590/212802946-791b88a3-a0af-44ba-9bf9-b6e5c0de5f88.png">
+
+
+
+
+
+
+
 
