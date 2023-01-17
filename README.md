@@ -80,6 +80,18 @@ Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungs
 
 <img width="405" alt="image" src="https://user-images.githubusercontent.com/117746590/212802946-791b88a3-a0af-44ba-9bf9-b6e5c0de5f88.png">
 
+## D. _Test Case_
+Sebelum memulai _test case,_ akan dibuat dahulu transaksinya.
+
+<img width="741" alt="image" src="https://user-images.githubusercontent.com/117746590/212811370-b046f74e-9abe-484f-b522-097ec16259a9.png">
+
+### Test Case 1
+Pada case ini, akan ditambahkan beberapa item, antara lain:
+- 2 ayam goreng seharga Rp8.000,00
+- 2 bungkus nasi seharga Rp2.000,00
+- 1 mouse seharga Rp43.000,00
+- 2 es teh seharga Rp3.000,00 dan
+- 1 tempat makan seharga Rp72.000,00
 
 
 
