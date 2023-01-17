@@ -3,6 +3,7 @@
 Super Cashier Library Management System (SC-LMS) merupakan sistem automasi yang digunakan untuk mendukung operasional kasir dalam memuat daftar belanja pelanggan. Fitur yang terdapat dalam sistem ini meliputi pembuatan transaksi, penambahan, penyuntingan, dan penghapusan item belanja, serta perhitungan total belanja.
 ## B. Alur Program (_Flowchart_)
 <img width="4081" alt="Flow Chart Project Python 1 - Pacmann" src="https://user-images.githubusercontent.com/117746590/212791530-ffa058c2-8020-4262-922f-1c56a5b3fd29.png">
+
 ## Tahap 1. Pembuatan Transaksi
 Pada tahap 1, akan dilakukan pembuatan transaksi dengan fungsi _buat_transaksi()_ dan pemilihan nomor transaksi secara acak dengan fungsi _pilih_nomor()_. Kedua fungsi ini membutuhkan input dari variabel **awal** berupa 'Ya' atau 'Tidak'. Input 'Ya' berarti pelanggan telah memilih nomor transaksi sehingga bisa langsung memasukkannya, sedangkan input 'Tidak' untuk pelanggan yang baru ingin membuat transaksi.
 ## Tahap 2. Penambahan Item Belanja
