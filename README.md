@@ -25,4 +25,12 @@ Dengan fungsi _lanjut_transaksi()_, kita dapat mengecek item belanjaan terlebih 
 ### Tahap 6. Pembayaran
 Dengan fungsi _pembayaran()_, pelanggan/kasir akan menyelesaikan keseluruhan proses transaksi dan akan keluar _output_ berupa struk belanja yang berisi informasi tanggal, nomor transaksi, list item, total belanja, dan total pembayaran (apabila mendapatkan diskon).
 
-## C. Penjelasan Program
+## C. Penjelasan Modul dan Fungsi
+### datetime
+Merupakan modul yang menyediakan kelas untuk manipulasi tanggal dan waktu. Pada program ini, modul datetime digunakan untuk menghasilkan output berupa tanggal dan waktu saat transaksi diselesaikan.
+
+### pandas
+Merupakan modul yang biasa digunakan untuk analisis data. Dalam program ini, modul pandas digunakan untuk membuat data frame daftar belanja.
+
+### transaksi_modul
+Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungsi, antara lain:
