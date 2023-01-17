@@ -83,7 +83,7 @@ Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungs
 ## D. _Test Case_
 Sebelum memulai _test case,_ akan dibuat dahulu transaksinya.
 
-<img width="741" alt="image" src="https://user-images.githubusercontent.com/117746590/212811370-b046f74e-9abe-484f-b522-097ec16259a9.png">
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/117746590/212822184-83c0787e-8edf-4f3d-9dcb-920b98937387.png">
 
 ### Test Case 1
 Pada case ini, akan ditambahkan beberapa item, antara lain:
@@ -93,17 +93,17 @@ Pada case ini, akan ditambahkan beberapa item, antara lain:
 - 2 es teh seharga Rp3.000,00 dan
 - 1 tempat makan seharga Rp72.000,00
 
-<img width="308" alt="image" src="https://user-images.githubusercontent.com/117746590/212814997-e62027b4-1e5f-432a-bbdc-dae3c87df62b.png">
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/117746590/212822359-86585b12-0df3-4a8d-a975-43b095496963.png">
 
 ### Test Case 2
 Menghapus item 'mouse' dari list transaksi.
 
-<img width="339" alt="image" src="https://user-images.githubusercontent.com/117746590/212815083-a515f289-de15-4c46-a261-fd144cd42936.png">
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/117746590/212822410-1929228e-f025-465c-8d4c-a55068d1ee8e.png">
 
 ### Test Case 3
 Menghapus seluruh item pada list transaksi.
 
-<img width="335" alt="image" src="https://user-images.githubusercontent.com/117746590/212815181-3465b00a-5792-46c3-885c-5aa9b2fd18c2.png">
+<img width="97" alt="image" src="https://user-images.githubusercontent.com/117746590/212822434-ed575db8-9a30-45e6-a7cd-23ba9a329620.png">
 
 Sebelum ke _test case 4,_ akan dilakukan _add_item()_ kembali. Namun, pada kali ini, akan diinput item sebagai berikut.
 - 1 tisu seharga Rp2.500,00
@@ -115,6 +115,16 @@ Sebelum ke _test case 4,_ akan dilakukan _add_item()_ kembali. Namun, pada kali 
 - 2 roti sobek seharga Rp17.000,00
 - 4 keripik seharga Rp17.500,00 dan
 - 1 pak tusuk gigi seharga Rp9.000,00.
+
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/117746590/212822698-a9255bf2-5b1e-4287-aa7d-3714f153b66a.png">
+
+Kemudian, kita akan uji dengan mengoreksi totebag menjadi goodie bag dan harganya berubah menjadi Rp23.000,00. Setelah itu, proses dilanjutkan hingga _check_item()_
+
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/117746590/212822992-17c900d5-c4a3-4dd2-b230-f2055ac24eaa.png">
+
+### Test Case 4
+Dilakukan perhitungan total biaya dan pembayaran setelah diskon.
+<img width="369" alt="image" src="https://user-images.githubusercontent.com/117746590/212823814-3603fe9d-3919-471f-a904-b85b30595d5f.png">
 
 
 
