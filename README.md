@@ -128,9 +128,14 @@ Dilakukan perhitungan total biaya dan pembayaran setelah diskon.
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/117746590/212823814-3603fe9d-3919-471f-a904-b85b30595d5f.png">
 
-## E. Simpulan dan Future Work
+## E. Simpulan dan _Future Work_
 ### Simpulan
-Super Cashier Library Management System (SC-LMS) dapat dibuat d
+Penyelesaian pembuatan Super Cashier Library Management System (SC-LMS) dapat berjalan dengan baik karena adanya alur program yang jelas dan terencana melalui _flowchart. Flowchart_ merupakan modal awal yang sangat diperlukan untuk memudahkan kita selama proses _programming_ ke depannya, sebab melalui alur yang jelas itu, kita memiliki gambaran fitur apa saja yang perlu dibuat, seperti fungsi, _branching, looping,_ dan sebagainya.
 
-### Future Work
+Adapun dalam Super Cashier Library Management System (SC-LMS), kita banyak berkaitan dengan _looping, brancing, function,_ dan _try and except._ Dalam beberapa program, _branching dan looping_ diletakkan dalam _function_ agar sistem kerja menjadi lebih efisien, efektif, dan lebih terarah alurnya. Selain itu, fungsi-fungsi yang dibuat ini disimpan dalam _modular code_ sehingga isi file program utama lebih sederhana dan tidak banyak program/kode. Kita juga belajar membiasakan bagaimana menulis fungsi dan program yang baik dengan menambah _docstring, comment,_ juga penulisan kode yang tidak berdekatan satu sama lain, tetapi juga tidak selalu berjauhan, agar orang lain juga mampu memahami kode/program yang kita buat.
+
+Digunakan juga modul/_library_ seperti _pandas_ untuk pembuatan _data frame_ dan manipulasi data di dalamnya, serta _datetime_ untuk manipulasi tanggal dan waktu.
+
+### _Future Work_
+
 
