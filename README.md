@@ -1,6 +1,7 @@
 # Python Project: Super Cashier Library Management System (SC-LMS)
 ## A. Latar Belakang
 Super Cashier Library Management System (SC-LMS) merupakan sistem automasi yang digunakan untuk mendukung operasional kasir dalam memuat daftar belanja pelanggan. Fitur yang terdapat dalam sistem ini meliputi pembuatan transaksi, penambahan, penyuntingan, dan penghapusan item belanja, serta perhitungan total belanja.
+
 ## B. Alur Program (_Flowchart_)
 <img width="4081" alt="Flow Chart Project Python 1 - Pacmann" src="https://user-images.githubusercontent.com/117746590/212791530-ffa058c2-8020-4262-922f-1c56a5b3fd29.png">
 
@@ -127,9 +128,9 @@ Dilakukan perhitungan total biaya dan pembayaran setelah diskon.
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/117746590/212823814-3603fe9d-3919-471f-a904-b85b30595d5f.png">
 
-## E. Simpulan dan Saran
+## E. Simpulan dan Future Work
 ### Simpulan
-Dalam pembuatan Super Cashier Library Management System, 
+Super Cashier Library Management System (SC-LMS) dapat dibuat d
 
-### Saran
+### Future Work
 
