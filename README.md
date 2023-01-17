@@ -13,5 +13,5 @@ Jika ada item yang salah ketika proses penginputan, dapat digunakan fungsi _kore
 #### Hapus dan Reset Item Belanja
 Terdapat fungsi _delete_item()_ untuk menghapus item belanja yang ingin dibatalkan ataupun salah input berdasarkan nama produknya. Fungsi ini juga akan menghapus informasi jumlah yang dibeli serta harga satuannya. Sementara itu, ada pula fungsi _reset_item()_ untuk menghapus seluruh isi list transaksi yang memuat informasi seluruh daftar belanja milik seorang pelanggan.
 ### Tahap 4. Cek Item Belanja
-Fungsi _check_list()_ digunakan untuk mengecek kesesuaian list jumlah nama produk, jumlah yang dibeli, dan harga satuannya. Fungsi _check_item_sementara()_ untuk mengecek kesamaan jumlah baris antarkolom setelah list ditransformasikan menjadi sebuah data frame.
+Fungsi _check_list()_ digunakan untuk mengecek kesesuaian list jumlah nama produk, jumlah yang dibeli, dan harga satuannya. Fungsi _check_item_sementara()_ untuk mengecek kesamaan jumlah baris antarkolom setelah list ditransformasikan menjadi sebuah data frame. Apabila telah sesuai, variabel **transaksiku** akan ditransformasikan menjadi data frame dengan fungsi _check_item()_ dan disimpan dalam variabel _my_transaksi_.
 ### Tahap 5. 
