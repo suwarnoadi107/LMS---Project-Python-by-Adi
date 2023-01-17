@@ -59,7 +59,10 @@ print(transaksiku)
 reset_transaksi(transaksiku)
 print(transaksiku)
 
-# Tambah item lagi
+# buat transaksi lagi
+transaksiku = transaction()
+
+# Input item lagi
 add_item(tambah_transaksi,transaksiku)
 print(transaksiku)
 
