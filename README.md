@@ -93,6 +93,29 @@ Pada case ini, akan ditambahkan beberapa item, antara lain:
 - 2 es teh seharga Rp3.000,00 dan
 - 1 tempat makan seharga Rp72.000,00
 
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/117746590/212814997-e62027b4-1e5f-432a-bbdc-dae3c87df62b.png">
+
+### Test Case 2
+Menghapus item 'mouse' dari list transaksi.
+
+<img width="339" alt="image" src="https://user-images.githubusercontent.com/117746590/212815083-a515f289-de15-4c46-a261-fd144cd42936.png">
+
+### Test Case 3
+Menghapus seluruh item pada list transaksi.
+
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/117746590/212815181-3465b00a-5792-46c3-885c-5aa9b2fd18c2.png">
+
+Sebelum ke _test case 4,_ akan dilakukan _add_item()_ kembali. Namun, pada kali ini, akan diinput item sebagai berikut.
+- 1 tisu seharga Rp2.500,00
+- 1 sling bag seharga Rp79.900,00
+- 1 earphone seharga Rp26.000,00
+- 1 tumblr seharga Rp43.000,00
+- 1 totebag seharga Rp5.000,00
+- 3 bearbrand seharga Rp12.000,00
+- 2 roti sobek seharga Rp17.000,00
+- 4 keripik seharga Rp17.500,00 dan
+- 1 pak tusuk gigi seharga Rp9.000,00.
+
 
 
 
