@@ -34,3 +34,17 @@ Merupakan modul yang biasa digunakan untuk analisis data. Dalam program ini, mod
 
 ### transaksi_modul
 Modul ini dibuat secara khusus untuk project ini dan terdiri atas beberapa fungsi, antara lain:
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/117746590/212800529-9d19d71e-2946-404a-bc89-1cde55020295.png">
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/117746590/212800664-ecb342e1-7d74-42ec-976f-3c418ea9768f.png">
+
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/117746590/212800740-e3390159-eaf8-4b0c-9555-ec2615a4a19f.png">
+
+<img width="395" alt="image" src="https://user-images.githubusercontent.com/117746590/212801153-9b7da8cc-4468-41f1-8dc6-7af603b2f2ad.png">
+
+<img width="246" alt="image" src="https://user-images.githubusercontent.com/117746590/212801228-eab672cc-2192-49c9-8f2c-e0441f85d815.png">
+
+### Fungsi pembayaran()
+<img width="435" alt="image" src="https://user-images.githubusercontent.com/117746590/212801416-da93291b-7695-4155-83fc-42c00522044e.png">
+
+
