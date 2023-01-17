@@ -49,17 +49,19 @@ while step_ >= 0:
     step_ += 1
         
 add_item(tambah_transaksi,transaksiku)
-transaksiku
+print(transaksiku)
 
 # Menghapus item mouse
 delete_item('mouse', transaksiku)
+print(transaksiku)
 
 # Reset item
 reset_transaksi(transaksiku)
+print(transaksiku)
 
 # Tambah item lagi
 add_item(tambah_transaksi,transaksiku)
-transaksiku
+print(transaksiku)
 
 # Koreksi Awal: Memperbarui Daftar Belanja dalam List
 step = 0
