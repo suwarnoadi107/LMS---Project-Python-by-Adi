@@ -139,3 +139,5 @@ Digunakan juga modul/_library_ seperti _pandas_ untuk pembuatan _data frame_ dan
 ### _Future Work_
 Saat program ini dibuat, saya sebagai _author_ belum mempelajari _class_ sehingga baru mengetahuinya setelah program ini selesai dijalankan. Banyak pada program ini, kodingan yang dapat dibuat dalam _class,_ tetapi belum bisa saya lakukan karena keterbatasan waktu. Bila memiliki waktu lebih, saya akan berusaha memperbarui program ini dengan merevisi beberapa kodingan dengan _class_ agar lebih sederhana dan lebih mudah dipahami. Selain itu, saya juga ingin menambah fitur agar pelanggan dapat memilih untuk menambah item, koreksi item, hapus item, reset item, hingga pembayaran akhir melalui pesan yang diinputkan, tanpa perlu menulis ulang kode yang ada dalam script.
 
+Selain itu, saya juga tertarik untuk menambah fitur penyimpanan riwayat transaksi sehingga semisal pelanggan telah membuat transaksi sebelumnya (ingat bagian awal saat buat transaksi), pelanggan dapat melanjutkan pengisian list rencana transaksinya.
+
