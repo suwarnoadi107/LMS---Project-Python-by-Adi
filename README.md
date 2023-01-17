@@ -66,6 +66,7 @@ Modul ini dibuat untuk melihat kesesuaian antarkomponen dalam list atau data fra
 
 <img width="342" alt="image" src="https://user-images.githubusercontent.com/117746590/212802559-1f32a85e-4531-47d2-879c-51fff178838b.png">
 
+### fungsi check_item()
 <img width="280" alt="image" src="https://user-images.githubusercontent.com/117746590/212802624-ad72360e-2f7f-4135-a527-3d5571255ec5.png">
 
 ### update_item_dataframe_modul
