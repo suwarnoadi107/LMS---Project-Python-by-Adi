@@ -127,9 +127,9 @@ Dilakukan perhitungan total biaya dan pembayaran setelah diskon.
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/117746590/212823814-3603fe9d-3919-471f-a904-b85b30595d5f.png">
 
+## E. Simpulan dan Saran
+### Simpulan
+Dalam pembuatan Super Cashier Library Management System, 
 
-
-
-
-
+### Saran
 
